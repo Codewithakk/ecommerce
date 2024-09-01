@@ -1,6 +1,5 @@
 ## Ecommerce task 
 
-
 ## Getting Started
 
 

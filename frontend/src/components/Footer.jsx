@@ -15,7 +15,7 @@ const Footer = () => {
       <Row className='justify-content-center'>
         <Col xs='auto' className='text-center py-2'>
           <a
-            href='https://github.com/yourusername'
+            href='https://github.com/Codewithakk'
             target='_blank'
             rel='noopener noreferrer'
             style={{
